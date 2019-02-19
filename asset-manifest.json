@@ -1,14 +1,14 @@
 {
-  "main.css": "/reactCurrency/static/css/main.1e4b7f83.chunk.css",
-  "main.js": "/reactCurrency/static/js/main.d6a39496.chunk.js",
-  "main.js.map": "/reactCurrency/static/js/main.d6a39496.chunk.js.map",
+  "main.css": "/reactCurrency/static/css/main.dbacd408.chunk.css",
+  "main.js": "/reactCurrency/static/js/main.5e3926b8.chunk.js",
+  "main.js.map": "/reactCurrency/static/js/main.5e3926b8.chunk.js.map",
   "runtime~main.js": "/reactCurrency/static/js/runtime~main.ecc5dd34.js",
   "runtime~main.js.map": "/reactCurrency/static/js/runtime~main.ecc5dd34.js.map",
-  "static/js/2.ba1ca5ba.chunk.js": "/reactCurrency/static/js/2.ba1ca5ba.chunk.js",
-  "static/js/2.ba1ca5ba.chunk.js.map": "/reactCurrency/static/js/2.ba1ca5ba.chunk.js.map",
+  "static/js/2.9abdb1bf.chunk.js": "/reactCurrency/static/js/2.9abdb1bf.chunk.js",
+  "static/js/2.9abdb1bf.chunk.js.map": "/reactCurrency/static/js/2.9abdb1bf.chunk.js.map",
   "index.html": "/reactCurrency/index.html",
-  "precache-manifest.c9a9b536745ee180e13a75e55e9bb1d5.js": "/reactCurrency/precache-manifest.c9a9b536745ee180e13a75e55e9bb1d5.js",
+  "precache-manifest.97fb4d2646c3d9437f4ac1e9c5b07e01.js": "/reactCurrency/precache-manifest.97fb4d2646c3d9437f4ac1e9c5b07e01.js",
   "service-worker.js": "/reactCurrency/service-worker.js",
-  "static/css/main.1e4b7f83.chunk.css.map": "/reactCurrency/static/css/main.1e4b7f83.chunk.css.map",
-  "static/media/logo.svg": "/reactCurrency/static/media/logo.5d5d9eef.svg"
+  "static/css/main.dbacd408.chunk.css.map": "/reactCurrency/static/css/main.dbacd408.chunk.css.map",
+  "static/media/logo.png": "/reactCurrency/static/media/logo.5c0436d5.png"
 }
